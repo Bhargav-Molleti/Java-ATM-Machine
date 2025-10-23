@@ -15,9 +15,9 @@ Java ATM Machine is a simple console-based banking application written in Java. 
 1.Start the application.  
 2.Enter your account number and PIN to log in.  
 3.Choose an operation:  
-  *Check Balance  
-  *Withdraw Cash  
-  *Deposit Money  
+  - Check Balance  
+  - Withdraw Cash  
+  - Deposit Money  
 4.Follow on-screen instructions to complete the transaction.  
 5.Exit the application when finished.  
 
